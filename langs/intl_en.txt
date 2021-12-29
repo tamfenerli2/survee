@@ -1,6 +1,8 @@
-{
-  "@@locale": "en",
-  "helloWorld": "Hello World",
-  "notification": "Notification",
-  "monkey": "Monkey"
-}
+[
+  {
+    "@@locale": "en",
+    "helloWorld": "Hello World",
+    "notification": "Notification",
+    "monkey": "Monkey"
+  }
+]
