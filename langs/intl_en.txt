@@ -3,6 +3,6 @@
     "@@locale": "en",
     "helloWorld": "Hello World",
     "notification": "Notification",
-    "monkey": "Monkey"
+    "monkey": "Monkey Monkey"
   }
 
