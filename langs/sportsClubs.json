@@ -1,0 +1,28 @@
+[
+    {
+        "sport": "soccer",
+        "data": [
+            {
+                "country": "TR",
+                "clubs": "FB, GS, BJK"
+            },
+            {
+                "country": "GB",
+                "clubs": "FB, GS, BJK"
+            }
+        ]
+    },
+    {
+        "sport": "basketball",
+        "data": [
+            {
+                "country": "TR",
+                "clubs": "FB, GS, BJK"
+            },
+            {
+                "country": "GB",
+                "clubs": "FB, GS, BJK"
+            }
+        ]
+    }
+]
