@@ -1,6 +1,6 @@
 [
     {
-        "sport": "soccer",
+        "sport": "Soccer",
         "data": [
             {
                 "country": "TR",
@@ -8,20 +8,20 @@
             },
             {
                 "country": "GB",
-                "clubs": "FB, GS, BJK"
+                "clubs": "Liv, Mun, Ars"
             }
         ]
     },
     {
-        "sport": "basketball",
+        "sport": "Basketball",
         "data": [
             {
                 "country": "TR",
-                "clubs": "FB, GS, BJK"
+                "clubs": "FBeko, GSNude, BJKCrown"
             },
             {
-                "country": "GB",
-                "clubs": "FB, GS, BJK"
+                "country": "USA",
+                "clubs": "CB, LL, DP"
             }
         ]
     }
