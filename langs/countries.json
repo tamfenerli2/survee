@@ -252,6 +252,10 @@
         "abbreviation": "SV"
     },
     {
+        "country": "England",
+        "abbreviation": "UK"
+    },
+    {
         "country": "Equatorial Guinea",
         "abbreviation": "GQ"
     },
@@ -922,11 +926,7 @@
     {
         "country": "United Arab Emirates",
         "abbreviation": "AE"
-    },
-    {
-        "country": "United Kingdom",
-        "abbreviation": "UK"
-    },
+    },    
     {
         "country": "United States",
         "abbreviation": "US"
