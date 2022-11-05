@@ -3,11 +3,11 @@
         "sport": "Soccer",
         "data": [
             {
-                "country": "TR",
+                "country": "Turkey",
                 "clubs": "FB, GS, BJK"
             },
             {
-                "country": "GB",
+                "country": "England",
                 "clubs": "Liv, Mun, Ars"
             }
         ]
@@ -16,11 +16,11 @@
         "sport": "Basketball",
         "data": [
             {
-                "country": "TR",
+                "country": "Turkey",
                 "clubs": "FBeko, GSNude, BJKCrown"
             },
             {
-                "country": "USA",
+                "country": "United States",
                 "clubs": "CB, LL, DP"
             }
         ]
