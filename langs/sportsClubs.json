@@ -1,28 +1,10 @@
 [
     {
         "sport": "Soccer",
-        "data": [
-            {
-                "country": "Turkey",
-                "clubs": "Fenerbahçe, Galatasaray, Beşiktaş JK, Başakşehir FK, MKE Ankaragücü, Sivasspor"
-            },
-            {
-                "country": "United Kingdom",
-                "clubs": "Liverpool, Manchester United, Arsenal, Manchester City"
-            }
-        ]
+        "clubs": "Fenerbahçe, Galatasaray, Beşiktaş JK, Başakşehir FK, MKE Ankaragücü, Sivasspor, Liverpool, Manchester United, Arsenal, Manchester City"        
     },
     {
         "sport": "Basketball",
-        "data": [
-            {
-                "country": "Turkey",
-                "clubs": "FBeko, GSNude, BJKCrown"
-            },
-            {
-                "country": "United States",
-                "clubs": "CB, LL, DP"
-            }
-        ]
+        "clubs": "FBeko, GSNude, BJKCrown, CB, LL, DP"        
     }
 ]
