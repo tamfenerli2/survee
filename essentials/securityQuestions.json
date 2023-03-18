@@ -1,0 +1,24 @@
+[
+  {
+    "lang": "en",
+    "questions": [
+      {
+        "ask": "Questions1"
+      },
+      {
+        "ask": "Question2"
+      }
+    ]
+  }, 
+  {
+    "lang": "tr",
+    "questions": [
+      {
+        "ask": "Soru1"
+      },
+      {
+        "ask": "Soru2"
+      }
+    ]
+  }
+]
