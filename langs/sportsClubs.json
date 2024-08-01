@@ -8,6 +8,10 @@
         "clubs": "Fenerbahçe, Galatasaray, Beşiktaş, Başakşehir FK, MKE Ankaragücü, Sivasspor, Liverpool, Manchester United, Arsenal, Manchester City"        
     },
     {
+        "sport": "Woman Soccer",
+        "clubs": "Fenerbahçe Petrol Ofisi, Atatşehir Belediye Spor, Bitexen Adana İdmanyurduspor, Galatasaray A.Ş., FC. Barcelona, 	Olympique Lyonnais, Corinthians"
+    },
+    {
         "sport": "Basketball",
         "clubs": "FBeko, GSNude, BJKCrown, CB, LL, DP"        
     }
