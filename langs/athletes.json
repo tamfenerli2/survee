@@ -1,5 +1,9 @@
 [
     {
+        "sport": "Any",
+        "name": ""
+    },
+    {
         "sport": "Soccer",
         "name": "Lionel Messi"
     },
