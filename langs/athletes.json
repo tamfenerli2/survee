@@ -1,7 +1,7 @@
 [
     {
-        "sport": "Any",
-        "name": ""
+        "sport": "Soccer",
+        "name": "Arda Güler"
     },
     {
         "sport": "Soccer",
@@ -12,6 +12,7 @@
         "name": "Venus Williams"
     },
     {
-        "
+        "sport": "Basketball",
+        "name": "Kerim Abdül Cabbar"
     }
 ]
