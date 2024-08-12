@@ -8,11 +8,19 @@
         "name": "Lionel Messi"
     },
     {
-        "sport": "Woman Soccer",
-        "name": "Venus Williams"
+        "sport": "Woman Tennis",
+        "name": "Serena Williams"
     },
     {
         "sport": "Basketball",
-        "name": "Kerim Abdül Cabbar"
+        "name": "Kareem Abdul-Jabbar"
+    },
+    {
+        "sport": "Basketball",
+        "name": "Michael Jordan"
+    },
+    {
+        "sport": "Woman Tennis",
+        "name": "Iga Swiatek"
     }
 ]
