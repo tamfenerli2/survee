@@ -1,1 +1,13 @@
-{}
+{
+  "jack": {
+    "user": "jack",
+    "no": 10,
+    "color": [
+      "red",
+      "blue"
+    ],
+    "planet": {
+      "earth": "moon"
+    }
+  }
+}
