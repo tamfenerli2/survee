@@ -12,12 +12,5 @@
     "name": "raining",
     "source": "s4",
     "description": "d4"
-  },
-  "fb5104c0-79bf-11ef-a164-49fae4433d8e": {
-    "id": "fb5104c0-79bf-11ef-a164-49fae4433d8e",
-    "address": "https://videos.pexels.com/video-files/27922277/12264203_640_360_30fps.mp4",
-    "name": "swans",
-    "source": "s1",
-    "description": "d1"
   }
 }
