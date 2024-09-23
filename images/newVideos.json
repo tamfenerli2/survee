@@ -6,13 +6,6 @@
     "source": "source 1",
     "description": "desc 1"
   },
-  "bc402e30-79bc-11ef-ae6b-977ba53f446e": {
-    "id": "bc402e30-79bc-11ef-ae6b-977ba53f446e",
-    "address": "https://videos.pexels.com/video-files/27775313/12221550_640_360_30fps.mp4",
-    "name": "birds",
-    "source": "sour2",
-    "description": "desc2"
-  },
   "cb8d43a0-79bc-11ef-ae6b-977ba53f446e": {
     "id": "cb8d43a0-79bc-11ef-ae6b-977ba53f446e",
     "address": "https://videos.pexels.com/video-files/9968176/9968176-sd_640_360_25fps.mp4",
