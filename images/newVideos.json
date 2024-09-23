@@ -40,12 +40,5 @@
     "name": "bird1",
     "source": "source6",
     "description": "desc6"
-  },
-  "": {
-    "id": "",
-    "address": "https://videos.pexels.com/video-files/27775313/12221550_640_360_30fps.mp4",
-    "name": "bird1",
-    "source": "soe6",
-    "description": "desc6"
   }
 }
