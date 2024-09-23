@@ -6,13 +6,6 @@
     "source": "source 1",
     "description": "desc 1"
   },
-  "34a4d3b0-79ba-11ef-84d8-3b771c8c81fa": {
-    "id": "34a4d3b0-79ba-11ef-84d8-3b771c8c81fa",
-    "address": "https://videos.pexels.com/video-files/9968176/9968176-sd_640_360_25fps.mp4",
-    "name": "boring",
-    "source": "source2",
-    "description": "desc2"
-  },
   "df93fb70-79ba-11ef-94c2-55ee83818c97": {
     "id": "df93fb70-79ba-11ef-94c2-55ee83818c97",
     "address": "https://videos.pexels.com/video-files/18103913/18103913-sd_360_640_30fps.mp4",
