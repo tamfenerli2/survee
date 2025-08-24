@@ -47334,7 +47334,7 @@
     },
     {
         "id": 2170,
-        "name": "Istanbul",
+        "name": "İstanbul",
         "country_id": 225,
         "country_code": "TR",
         "country_name": "Turkey",
@@ -55011,3 +55011,4 @@
         "longitude": "29.60354950"
     }
 ]
+
