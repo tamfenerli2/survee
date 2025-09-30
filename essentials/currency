@@ -3,12 +3,14 @@
     "lang": "en",
     "code": "USD, EUR, JPY, GBP, CNY, CAD, AUD, CHF, TRY, RUB, INR, BRL, MXN, KRW, SGD, HKD, NZD, ZAR, XOF, XAF, AED, SAR, ILS, PLN, CZK, HUF, BGN, DKK, NOK, SEK, EGP, ARS, IDR, THB, AZN, KZT",
     "list": "US Dollar, Euro, Japanese Yen, British Pound, Chinese Yuan (Renminbi), Canadian Dollar, Australian Dollar, Swiss Franc, Turkish Lira, Russian Ruble, Indian Rupee, Brazilian Real, Mexican Peso, South Korean Won, Singapore Dollar, Hong Kong Dollar, New Zealand Dollar, South African Rand, CFA Franc BCEAO, CFA Franc BEAC, United Arab Emirates Dirham, Saudi Riyal, Israeli New Shekel, Polish Zloty, Czech Koruna, Hungarian Forint, Bulgarian Lev, Danish Krone, Norwegian Krone, Swedish Krona, Egyptian Pound, Argentine Peso, Indonesian Rupiah, Thai Baht, Azerbaijani Manat, Kazakhstani Tenge",
-    "symbol" : "$, €, ¥, £, ¥ / 元, $, $, Fr / SFr, ₺, ₽, ₹, R$, $, ₩, $, $, $, R, Fr, Fr, د.إ, ﷼ / ر.س, ₪, zł, Kč, Ft, лв, kr, kr, kr, E£ / ج.م, $, null, null, ₼, null"
+    "symbol" : "$, €, ¥, £, ¥ / 元, $, $, Fr / SFr, ₺, ₽, ₹, R$, $, ₩, $, $, $, R, Fr, Fr, د.إ, ﷼ / ر.س, ₪, zł, Kč, Ft, лв, kr, kr, kr, E£ / ج.م, $, null, null, ₼, null",
+    "flag": "🇺🇸, U+1F1EA U+1F1FA, 🇯🇵, 🇬🇧, 🇨🇳, 🇨🇦, 🇦🇺, 🇨🇭, 🇹🇷, 🇷🇺, 🇮🇳, 🇧🇷, 🇲🇽, 🇰🇷, 🇸🇬, 🇭🇰, 🇳🇿, 🇿🇦, 🇳🇬, 🇨🇲, 🇦🇪, 🇸🇦, 🇮🇱, 🇵🇱, 🇨🇿, 🇭🇺, 🇧🇬, 🇩🇰, 🇳🇴, 🇸🇪, 🇪🇬, 🇦🇷, 🇮🇩, 🇹🇭, 🇦🇿, 🇰🇿"
   },
   {
     "lang": "tr",
     "code": "USD, EUR, JPY, GBP, CNY, CAD, AUD, CHF, TRY, RUB, INR, BRL, MXN, KRW, SGD, HKD, NZD, ZAR, XOF, XAF, AED, SAR, ILS, PLN, CZK, HUF, BGN, DKK, NOK, SEK, EGP, ARS, IDR, THB, AZN, KZT",
     "list": "Amerikan Doları, Euro, Japon Yeni, İngiliz Sterlini, Çin Yuanı (Renminbi), Kanada Doları, Avustralya Doları, İsviçre Frangı, Türk Lirası, Rus Rublesi, Hindistan Rupisi, Brezilya Reali, Meksika Pezosu, Güney Kore Wonu, Singapur Doları, Hong Kong Doları, Yeni Zelanda Doları, Güney Afrika Randı, CFA Frangı BCEAO, CFA Frangı BEAC, Birleşik Arap Emirlikleri Dirhemi, Suudi Riyali, İsrail Yeni Şekeli, Polonya Zlotisi, Çek Korunası, Macar Forinti, Bulgar Levası, Danimarka Kronu, Norveç Kronu, İsveç Kronu, Mısır Lirası (Poundu), Arjantin Pezosu, Endonezya Rupisi, Tayland Bahtı, Azerbaycan Manatı, Kazakistan Tengesi",
-    "symbol" : "$, €, ¥, £, ¥ / 元, $, $, Fr / SFr, ₺, ₽, ₹, R$, $, ₩, $, $, $, R, Fr, Fr, د.إ, ﷼ / ر.س, ₪, zł, Kč, Ft, лв, kr, kr, kr, E£ / ج.م, $, null, null, ₼, null"
+    "symbol" : "$, €, ¥, £, ¥ / 元, $, $, Fr / SFr, ₺, ₽, ₹, R$, $, ₩, $, $, $, R, Fr, Fr, د.إ, ﷼ / ر.س, ₪, zł, Kč, Ft, лв, kr, kr, kr, E£ / ج.م, $, null, null, ₼, null",
+    "flag": "🇺🇸, U+1F1EA U+1F1FA, 🇯🇵, 🇬🇧, 🇨🇳, 🇨🇦, 🇦🇺, 🇨🇭, 🇹🇷, 🇷🇺, 🇮🇳, 🇧🇷, 🇲🇽, 🇰🇷, 🇸🇬, 🇭🇰, 🇳🇿, 🇿🇦, 🇳🇬, 🇨🇲, 🇦🇪, 🇸🇦, 🇮🇱, 🇵🇱, 🇨🇿, 🇭🇺, 🇧🇬, 🇩🇰, 🇳🇴, 🇸🇪, 🇪🇬, 🇦🇷, 🇮🇩, 🇹🇭, 🇦🇿, 🇰🇿"
   }
 ]
