@@ -78,13 +78,5 @@
     "source": "https://cdn.pixabay.com/photo/2022/10/22/13/41/paris-7539257_1280.jpg",
     "description": "",
     "usedSurvees": ""
-  },
-  "6cf6d010-b0e1-mns0-9e5f-a95e0c324c32": {
-    "id": "6cf6d010-b0e1-mns0-9e5f-a95e0c324c32",
-    "address": "https://egospor.org.tr/wp-content/uploads/2024/05/Mansur-yavas-1.jpg",
-    "name": "Mansur Yavaş",
-    "source": "https://egospor.org.tr/mansuryavas/",
-    "description": "Mansur Yavaş Resmi 1",
-    "usedSurvees": ""
-  },
+  }
 }
