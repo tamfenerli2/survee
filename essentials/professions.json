@@ -1,10 +1,10 @@
 [
   {
     "lang": "en",
-    "list": "Any, Work1, Work2, Work3, Work4"
+    "list": "Any, Education/Academic, Healthcare, Information Technology/Software/Technology, Finance/Accounting/Banking, Engineering/Architecture/Construction, Services/Tourism/Commerce/Logistics, Law/Public Sector/Security, Arts/Media/Communication"
   },
   {
     "lang": "tr",
-    "list": "Belirtmek İstemiyorum, Meslek1, Meslek2, Meslek3, Meslek4"
+    "list": "Belirtmek İstemiyorum, Eğitim / Akademik, Sağlık, Bilişim / Yazılım / Teknoloji, Finans / Muhasebe / Bankacılık, Mühendislik / Mimarlık / İnşaat, Hizmet / Turizm / Ticaret / Lojistik, Hukuk / Kamu / Güvenlik, Sanat / Medya / İletişim"
   }
 ]
