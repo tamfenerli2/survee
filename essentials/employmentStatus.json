@@ -1,1 +1,10 @@
-
+[
+  {
+    "lang": "en",
+    "list": "All, Paid/Salaried, Freelance/Self-Employed, Employer/Company Owner, Public Official/Civil Servant, Retired, Never Worked, Housewife/Household Manager, Unemployed"
+  },
+  {
+    "lang": "tr",
+    "list": "Tümü, Ücretli/Maaşlı, Serbest Çalışan/Kendi İşini Yapan, İşveren/Şirket Sahibi, Kamu Görevlisi/Memur, Emekli, Hiç Çalışmamış, Ev Hanımı/Ev Yöneticisi, İşsiz"
+  }
+]
