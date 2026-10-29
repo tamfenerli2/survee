@@ -1,5 +1,5 @@
 {
-  (
+  {
   "name":"Arsenal",
   "foundedDate":"1886",
   "logo":"https://media.api-sports.io/football/teams/42.png",
@@ -8,4 +8,4 @@
   "colorSecondary":"#3B82F6",
   "country":"England"
 }
-)
+}
