@@ -1,4 +1,4 @@
-{
+[
   {
   "name":"Arsenal",
   "foundedDate":"1886",
@@ -8,4 +8,4 @@
   "colorSecondary":"#3B82F6",
   "country":"England"
 }
-}
+]
