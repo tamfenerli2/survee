@@ -1,11 +1,3 @@
 {
-  "Arsenal":{
-    "name":"Arsenal",
-    "foundedDate":"1886",
-    "logo":"https://media.api-sports.io/football/teams/42.png",
-    "banner":"https://media.api-sports.io/football/venues/494.png",
-    "colorPrimary":"#1E293B",
-    "colorSecondary":"#3B82F6",
-    "country":"England"
-  }
+
 }
