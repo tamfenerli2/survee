@@ -1,4 +1,5 @@
 [
+  {
   "fenerbah_e": {
     "name": "Fenerbahçee",
     "foundedDate": "1907",
@@ -8,5 +9,5 @@
     "colorSecondary": "#3B82F6",
     "country": "Turkeey"
   }
-
+  }
 ]
