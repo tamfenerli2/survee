@@ -1,6 +1,7 @@
 [ 
     {
     "fenerbah_ee": [
+        {
     "name": "Fenerbahçee",
     "foundedDate": "1907",
     "logo": "https://media.api-sports.io/football/teams/611.png",
@@ -8,6 +9,7 @@
     "colorPrimary": "#1E293B",
     "colorSecondary": "#3B82F6",
     "country": "Türkiye"
+        }
     ]
     }
 ]
