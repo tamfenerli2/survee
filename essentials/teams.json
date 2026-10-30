@@ -11,22 +11,32 @@
   },
   "3ecc24a0-d459-11f1-86a8-43c90c6572cf": {
     "id": "3ecc24a0-d459-11f1-86a8-43c90c6572cf",
-    "name": "FenerbahÃ§e",
+    "name": "Fenerbahçe",
     "foundedDate": "1907",
     "logo": "https://media.api-sports.io/football/teams/611.png",
     "banner": "https://media.api-sports.io/football/venues/22760.png",
     "colorPrimary": "#1E293B",
     "colorSecondary": "#FFFF00",
-    "country": "TÃ¼rkiye"
+    "country": "Türkiye"
   },
   "244e6d90-d45e-11f1-88b0-ef106bd1b894": {
     "id": "244e6d90-d45e-11f1-88b0-ef106bd1b894",
-    "name": "Bayern MÃ¼nchen",
+    "name": "Bayern München",
     "foundedDate": "1900",
     "logo": "https://media.api-sports.io/football/teams/157.png",
     "banner": "https://media.api-sports.io/football/venues/700.png",
     "colorPrimary": "#1E293B",
     "colorSecondary": "#3B82F6",
     "country": "Germany"
+  },
+  "45b46800-d471-11f1-b6bd-bf3382b7d734": {
+    "id": "45b46800-d471-11f1-b6bd-bf3382b7d734",
+    "name": "Real Madrid",
+    "foundedDate": "1902",
+    "logo": "https://media.api-sports.io/football/teams/541.png",
+    "banner": "https://media.api-sports.io/football/venues/1456.png",
+    "colorPrimary": "#1E293B",
+    "colorSecondary": "#3B82F6",
+    "country": "Spain"
   }
 }
