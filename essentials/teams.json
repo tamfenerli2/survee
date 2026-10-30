@@ -1,11 +1,20 @@
 {
-  "Arsenal":{
-    "name":"2de02490-75d6-11ef-8cb1-ad4a0451fhh8",
-    "foundedDate":"1886",
-    "logo":"https://media.api-sports.io/football/teams/42.png",
-    "banner":"https://media.api-sports.io/football/venues/494.png",
-    "colorPrimary":"#1E293B",
-    "colorSecondary":"#3B82F6",
-    "country":"England"
+  "Arsenal": {
+    "name": "2de02490-75d6-11ef-8cb1-ad4a0451fhh8",
+    "foundedDate": "1886",
+    "logo": "https://media.api-sports.io/football/teams/42.png",
+    "banner": "https://media.api-sports.io/football/venues/494.png",
+    "colorPrimary": "#1E293B",
+    "colorSecondary": "#3B82F6",
+    "country": "England"
+  },
+  "fenerbah_e": {
+    "name": "Fenerbahçe",
+    "foundedDate": "1907",
+    "logo": "https://media.api-sports.io/football/teams/611.png",
+    "banner": "https://media.api-sports.io/football/venues/22760.png",
+    "colorPrimary": "#1E293B",
+    "colorSecondary": "#FFFF00",
+    "country": "Türkiye"
   }
 }
