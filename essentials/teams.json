@@ -11,30 +11,20 @@
   },
   "3ecc24a0-d459-11f1-86a8-43c90c6572cf": {
     "id": "3ecc24a0-d459-11f1-86a8-43c90c6572cf",
-    "name": "Fenerbahçe",
+    "name": "FenerbahÃ§e",
     "foundedDate": "1907",
     "logo": "https://media.api-sports.io/football/teams/611.png",
     "banner": "https://media.api-sports.io/football/venues/22760.png",
     "colorPrimary": "#1E293B",
     "colorSecondary": "#FFFF00",
-    "country": "Türkiye"
+    "country": "TÃ¼rkiye"
   },
   "244e6d90-d45e-11f1-88b0-ef106bd1b894": {
     "id": "244e6d90-d45e-11f1-88b0-ef106bd1b894",
-    "name": "Bayern München",
+    "name": "Bayern MÃ¼nchen",
     "foundedDate": "1900",
     "logo": "https://media.api-sports.io/football/teams/157.png",
     "banner": "https://media.api-sports.io/football/venues/700.png",
-    "colorPrimary": "#1E293B",
-    "colorSecondary": "#3B82F6",
-    "country": "Germany"
-  },
-  "af28ad20-d465-11f1-8f38-c3ad38f3b82b": {
-    "id": "af28ad20-d465-11f1-8f38-c3ad38f3b82b",
-    "name": "Bayern Munich W",
-    "foundedDate": "1970",
-    "logo": "https://media.api-sports.io/football/teams/1860.png",
-    "banner": "https://media.api-sports.io/football/venues/20989.png",
     "colorPrimary": "#1E293B",
     "colorSecondary": "#3B82F6",
     "country": "Germany"
