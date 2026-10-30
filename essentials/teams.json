@@ -1,5 +1,5 @@
 {
-  "Arsenal": {
+  "2de02490-75d6-11ef-8cb1-ad4a0451fhh8": {
     "id": "2de02490-75d6-11ef-8cb1-ad4a0451fhh8",
     "name": "Arsenal",
     "foundedDate": "1886",
@@ -11,12 +11,12 @@
   },
   "3ecc24a0-d459-11f1-86a8-43c90c6572cf": {
     "id": "3ecc24a0-d459-11f1-86a8-43c90c6572cf",
-    "name": "Fenerbahçe",
+    "name": "FenerbahÃ§e",
     "foundedDate": "1907",
     "logo": "https://media.api-sports.io/football/teams/611.png",
     "banner": "https://media.api-sports.io/football/venues/22760.png",
     "colorPrimary": "#1E293B",
     "colorSecondary": "#FFFF00",
-    "country": "Türkiye"
+    "country": "TÃ¼rkiye"
   }
 }
