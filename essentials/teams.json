@@ -18,12 +18,12 @@
     "banner": "https://media.api-sports.io/football/venues/22760.png",
     "colorPrimary": "#1E293B",
     "colorSecondary": "#FFFF00",
-    "country": "TÃ¼rkiye",
+    "country": "Türkiye",
     "stadium": "Kadikoy Stadyumu"
   },
   "244e6d90-d45e-11f1-88b0-ef106bd1b894": {
     "id": "244e6d90-d45e-11f1-88b0-ef106bd1b894",
-    "name": "Bayern MÃ¼nchen",
+    "name": "Bayern München",
     "foundedDate": "1900",
     "logo": "https://media.api-sports.io/football/teams/157.png",
     "banner": "https://media.api-sports.io/football/venues/700.png",
@@ -42,5 +42,16 @@
     "colorSecondary": "#3B82F6",
     "country": "Spain",
     "stadium": "Barnebau Stadium"
+  },
+  "aa6bec80-d522-11f1-910f-838115d0a649": {
+    "id": "aa6bec80-d522-11f1-910f-838115d0a649",
+    "name": "Juventus",
+    "foundedDate": "1897",
+    "logo": "https://media.api-sports.io/football/teams/496.png",
+    "banner": "https://media.api-sports.io/football/venues/909.png",
+    "colorPrimary": "#1E293B",
+    "colorSecondary": "#3B82F6",
+    "country": "Italy",
+    "stadium": "Allianz Stadium"
   }
 }
