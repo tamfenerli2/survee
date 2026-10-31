@@ -53,5 +53,16 @@
     "colorSecondary": "#3B82F6",
     "country": "Italy",
     "stadium": "Allianz Stadium"
+  },
+  "9840f560-d52b-11f1-a94a-9f7f1a3d627f": {
+    "id": "9840f560-d52b-11f1-a94a-9f7f1a3d627f",
+    "name": "FC Porto",
+    "foundedDate": "1893",
+    "logo": "https://media.api-sports.io/football/teams/212.png",
+    "banner": "https://media.api-sports.io/football/venues/1286.png",
+    "colorPrimary": "#1E293B",
+    "colorSecondary": "#FFFF00",
+    "country": "Portugal",
+    "stadium": "Estádio Do Dragão ŞşÜüİıÖöÇç"
   }
 }
