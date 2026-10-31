@@ -18,12 +18,12 @@
     "banner": "https://media.api-sports.io/football/venues/22760.png",
     "colorPrimary": "#1E293B",
     "colorSecondary": "#FFFF00",
-    "country": "Türkiye",
-    "stadium": "Kadiköy Stadyumu"
+    "country": "TÃ¼rkiye",
+    "stadium": "KadikÃ¶y StadyumuÄ±"
   },
   "244e6d90-d45e-11f1-88b0-ef106bd1b894": {
     "id": "244e6d90-d45e-11f1-88b0-ef106bd1b894",
-    "name": "Bayern München",
+    "name": "Bayern MÃ¼nchen",
     "foundedDate": "1900",
     "logo": "https://media.api-sports.io/football/teams/157.png",
     "banner": "https://media.api-sports.io/football/venues/700.png",
